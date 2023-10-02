@@ -152,7 +152,7 @@ namespace SADST
             HeadlessIps = "127.0.0.1";
             LocalIps = "127.0.0.1";
 
-            DefaultDifficulty = 1;
+            DefaultDifficulty = 3;
 
             RptTimeStamps = new List<string>();
             Motd = new List<string>();
